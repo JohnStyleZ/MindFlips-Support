@@ -1,5 +1,5 @@
 {
-  "minimum_version": "999.0.0",
+  "minimum_version": "919.0.0",
   "current_version": "999.0.0",
   "force_update": true,
   "update_message": "This is a test of the force update system. Please update to continue using MindFlips.",
