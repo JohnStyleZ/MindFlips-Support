@@ -1,5 +1,5 @@
 {
-    "minimumVersion": "1.0",
+    "minimumVersion": "2.0",
     "updateMessage": "A new version of MindFlips is available. Please update to continue using the app.",
     "appStoreUrl": "https://apps.apple.com/app/mindflips/id123456789",
     "forceUpdate": false
