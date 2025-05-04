@@ -1,7 +1,6 @@
 {
-  "minimum_version": "919.0.0",
-  "current_version": "999.0.0",
-  "force_update": true,
-  "update_message": "This is a test of the force update system. Please update to continue using MindFlips.",
-  "app_store_url": "https://apps.apple.com/us/app/mindflips/id6450118297"
-} 
+    "minimumVersion": "1.0",
+    "updateMessage": "A new version of MindFlips is available. Please update to continue using the app.",
+    "appStoreUrl": "https://apps.apple.com/app/mindflips/id123456789",
+    "forceUpdate": false
+}
