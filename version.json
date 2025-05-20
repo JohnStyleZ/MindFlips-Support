@@ -1,5 +1,5 @@
 {
-    "minimumVersion": "2.0",
+    "minimumVersion": "1.0",
     "updateMessage": "A new version of MindFlips is available. Please update to continue using the app.",
     "appStoreUrl": "https://apps.apple.com/us/app/mindflips-ai-flashcards/id6745133541",
     "forceUpdate": true
